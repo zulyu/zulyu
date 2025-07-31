@@ -1,8 +1,9 @@
-### Hey there! 👋🏼✨ 
+### Welcome to my GitHub!!✨ 
 
-I'm Zuleyka, a senior attending Chapman University in sunny Orange, California. I am a software engineering and neuroscience student, complemented by a diverse background in computer science, psychology, fabrication, and design.
-*** 
+I'm Zuleyka: a proud first-generation graduate with a bachelor's degree in Software Engineering and a minor in Neuroscience.  
+Here on my GitHub, you'll find a selection of my programming projects.  
 
-### Current Interests! 🌟 
-My current tech interests are machine learning and ios development! 
-***
+To learn more about my background and explore additional work, feel free to visit my [personal website](https://www.zuleykaurieta.com/projects).
+
+### Background & Interests! 🌟 
+My tech interests and background include: AI/ML, full-stack development, website development, and iOS development!
